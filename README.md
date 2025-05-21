@@ -5,7 +5,7 @@ Crafting pixel-perfect experiences with React & Next.js
 🌟 Tech Stack
 ▸ Frontend: JavaScript (ES6+) | React | Next.js | HTML5/CSS3 | Tailwind
 ▸ Learning Path: Node.js | SQL | Full-Stack Patterns
-▸ Tools: Git | Vercel | [Inserisci altri es. Figma/Webpack/etc.]
+▸ Tools: Git | Vercel | Supabase 
 
 🚀 Featured Projects
 ▸ Portfolio – Looking for UI/UX feedback!
@@ -29,4 +29,4 @@ Mentor me on SQL/database design for upcoming projects
 
 📫 Let's Connect!
 Open to pair programming, hackathons, or innovative SaaS/e-commerce ideas.
-→ How to reach me: [Inserisci email/LinkedIn/Discord username]
+→ How to reach me: email: morad@x4brs.onmicrosoft.com
