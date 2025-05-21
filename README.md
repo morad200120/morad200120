@@ -36,6 +36,15 @@ I'm a web developer specializing in custom frontend solutions and practical auto
 
 ---
 
+## 📜 Certifications
+
+[![Responsive Web Design Certification](https://img.shields.io/badge/Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/morad20/responsive-web-design)
+- **Responsive Web Design** - freeCodeCamp  
+  _Issued: 2025_  
+  Validate skills in HTML5, CSS3, and responsive layout techniques
+
+---
+
 ## 🌱 Current Learning Path
 
 ### **Expanding My Stack**  
@@ -73,7 +82,7 @@ I'm a web developer specializing in custom frontend solutions and practical auto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://moradouaragua.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-MoradOuaragua-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morad200120)
-[![Discord](https://img.shields.io/badge/Discord-MoradOuaragua-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/825298670446444576)
+[![Discord](https://img.shields.io/badge/Discord-SamuSonoIo-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/825298670446444576)
 📧 **Email**: morad@x4brs.onmicrosoft.com
 
 ---
