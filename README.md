@@ -82,7 +82,7 @@ I'm a web developer specializing in custom frontend solutions and practical auto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://moradouaragua.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-MoradOuaragua-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morad200120)
-[![Discord](https://img.shields.io/badge/Discord-SamuSonoIo-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/825298670446444576)
+[![Discord](https://img.shields.io/badge/Discord-MouradOuaragua-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/825298670446444576)
 📧 **Email**: morad@x4brs.onmicrosoft.com
 
 ---
