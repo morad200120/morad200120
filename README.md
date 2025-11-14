@@ -3,7 +3,7 @@
 I'm a web developer specializing in custom frontend solutions and practical automation. Currently expanding into full-stack development while maintaining a focus on clean design and efficient workflows.
 [**🌐 Portfolio**](https://moradouaragua.vercel.app)
 ---
-## 🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit MI CHIAMO MORAD E SONO UN NERO!!!!
 ### **Core Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
